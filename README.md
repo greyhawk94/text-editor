@@ -6,8 +6,17 @@ It can create new files, open / save files, edit line by line (you say which lin
 It has a help page inside the program
 
 editor commands :
+
 help
+
 new
+
 open
+
 save
+
 edit
+
+It works on Windows 7
+
+Developed using Visual Studio 2015
